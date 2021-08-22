@@ -12,8 +12,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
 - 📫 How to reach me **willianrosendodelima@outlook.com**
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
@@ -57,4 +55,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Willian-code?tab=followers"><img src="https://img.shields.io/github/followers/Willian-code?label=Followers&style=social" alt="GitHub Badge"></a>
