@@ -22,7 +22,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-    <a href = "https://www.linkedin.com/in/willianlim-0790a2196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://www.linkedin.com/in/willian-lima-0790a2196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href = "https://www.instagram.com/willianlima_42/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
