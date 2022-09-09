@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Minishell](https://github.com/willianlim/Minishell)
+- 🔭 I’m currently working on [Philosophers](https://github.com/willianlim/philosophers)
 
 - 🌱 I’m currently learning **AWS, Java, Spring Boot**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **willianrosendodelima@outlook.com**
 
-- 📄 Know about my experiences [em desenvolvimento](em desenvolvimento)
+- 📄 Know about my experiences (under development) [Resume](https://willianlim.github.io/digital_resume/)
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
