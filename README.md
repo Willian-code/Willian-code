@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **AWS, Java, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://willianportfolio.dev/](https://willianportfolio.dev/)
+- 👨‍💻 All of my projects are available at [https://willianportfolio.dev/](https://willianportfolio.dev/) (under development)
 
 - 💬 Ask me about **c, python, django ...**
 
 - 📫 How to reach me **willianrosendodelima@outlook.com**
 
-- 📄 Know about my experiences (under development) [Resume](https://willianlim.github.io/digital_resume/)
+- 📄 Know about my experiences [Resume](https://willianlim.github.io/digital_resume/) (under development)
 
 - ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
