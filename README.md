@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Philosophers](https://github.com/willianlim/philosophers)
+- 🔭 I’m currently working on [NetPractice](https://github.com/willianlim/net_practice)
 
 - 🌱 I’m currently learning **AWS, Java, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://willianportfolio.dev/](https://willianportfolio.dev/) (under development)
+- 👨‍💻 All of my projects are available at [Portfolio](https://willianportfolio.dev/) (under development)
 
 - 💬 Ask me about **c, python, django ...**
 
