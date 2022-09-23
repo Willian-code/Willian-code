@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **c, python, django ...**
 
-- 📫 How to reach me **willianrosendodelima@outlook.com**
+- 📫 How to reach me: **willianrosendodelima@outlook.com**
 
 - 📄 Know about my experiences [Resume](https://willianlim.github.io/digital_resume/) (under development)
 
