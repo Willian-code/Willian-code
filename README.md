@@ -46,6 +46,10 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 </p>
 
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 ## 📊 My Github Stats
 
 | [![willianlim's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=willianlim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/willianlim?tab=repositories) |  [![willianlim's most used languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=willianlim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/willianlim?tab=repositories) |
